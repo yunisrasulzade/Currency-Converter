@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="convert">convert</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="balance_warning">Not enough balance</string>
+    <string name="balance">%s %f</string>
+</resources>
